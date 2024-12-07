@@ -1,0 +1,161 @@
+{
+   "html_attributions": [],
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2123,
+               "lng": -97.1478
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.213649,
+                  "lng": -97.146451
+               },
+               "southwest": {
+                  "lat": 33.210951,
+                  "lng": -97.149149
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/parking-71.png",
+         "name": "Union Circle Parking Garage",
+         "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+         "plus_code": {
+            "compound_code": "VCR6+RJ Denton, Texas",
+            "global_code": "8644VCR6+RJ"
+         },
+         "types": [
+            "parking",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Union Circle, Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2145,
+               "lng": -97.1496
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.215849,
+                  "lng": -97.148251
+               },
+               "southwest": {
+                  "lat": 33.213151,
+                  "lng": -97.150949
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/parking-71.png",
+         "name": "Highland Street Parking Garage",
+         "place_id": "ChIJZ7LH_DeuEmsRd5oRvRVB2Ds",
+         "plus_code": {
+            "compound_code": "VCR7+WP Denton, Texas",
+            "global_code": "8644VCR7+WP"
+         },
+         "types": [
+            "parking",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Highland Street, Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2108,
+               "lng": -97.1512
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.212149,
+                  "lng": -97.149851
+               },
+               "southwest": {
+                  "lat": 33.209451,
+                  "lng": -97.152549
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/parking-71.png",
+         "name": "Lot 20 Parking Lot",
+         "place_id": "ChIJh6qq_DeuEmsRyZmP7J-kAQU",
+         "plus_code": {
+            "compound_code": "VCR5+VP Denton, Texas",
+            "global_code": "8644VCR5+VP"
+         },
+         "types": [
+            "parking",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2125,
+               "lng": -97.1521
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.213849,
+                  "lng": -97.150751
+               },
+               "southwest": {
+                  "lat": 33.211151,
+                  "lng": -97.153449
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/parking-71.png",
+         "name": "Fouts Field Parking",
+         "place_id": "ChIJgR4e_DeuEmsR6C8HmYyjkWQ",
+         "plus_code": {
+            "compound_code": "VCR6+HJ Denton, Texas",
+            "global_code": "8644VCR6+HJ"
+         },
+         "types": [
+            "parking",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Fouts Field, Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2104,
+               "lng": -97.1475
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.211749,
+                  "lng": -97.146151
+               },
+               "southwest": {
+                  "lat": 33.209051,
+                  "lng": -97.148849
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/parking-71.png",
+         "name": "Union Lot 32",
+         "place_id": "ChIJIb20_DeuEmsRlL26rvJ_DsQ",
+         "plus_code": {
+            "compound_code": "VCR5+RM Denton, Texas",
+            "global_code": "8644VCR5+RM"
+         },
+         "types": [
+            "parking",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Union Lot, Denton, TX"
+      }
+   ],
+   "status": "OK"
+}

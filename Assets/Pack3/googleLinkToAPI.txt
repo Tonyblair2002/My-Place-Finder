@@ -1,0 +1,3 @@
+API Link : 
+
+"https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="+GPS.latitude+","+GPS.longitude+"&radius=500&type="+SceneController.keyword+"&key=YOURKEY"

@@ -1,0 +1,152 @@
+{
+   "html_attributions": [],
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2105,
+               "lng": -97.1492
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.211849,
+                  "lng": -97.147851
+               },
+               "southwest": {
+                  "lat": 33.209151,
+                  "lng": -97.150549
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name": "Fuzzy's Taco Shop",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+         "plus_code": {
+            "compound_code": "VCR5+RM Denton, Texas",
+            "global_code": "8644VCR5+RM"
+         },
+         "rating": 4.1,
+         "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Near Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2108,
+               "lng": -97.1489
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.212149,
+                  "lng": -97.147551
+               },
+               "southwest": {
+                  "lat": 33.209451,
+                  "lng": -97.150249
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "name": "Einstein Bros. Bagels",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJZ7LH_DeuEmsRd5oRvRVB2Ds",
+         "plus_code": {
+            "compound_code": "VCR5+VP Denton, Texas",
+            "global_code": "8644VCR5+VP"
+         },
+         "rating": 4.2,
+         "types": [
+            "cafe",
+            "bakery",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Near Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2112,
+               "lng": -97.1505
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.212549,
+                  "lng": -97.149151
+               },
+               "southwest": {
+                  "lat": 33.209851,
+                  "lng": -97.151849
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name": "Crooked Crust",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJh6qq_DeuEmsRyZmP7J-kAQU",
+         "plus_code": {
+            "compound_code": "VCR6+2J Denton, Texas",
+            "global_code": "8644VCR6+2J"
+         },
+         "rating": 4.3,
+         "types": [
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Near Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2121,
+               "lng": -97.1485
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.213450,
+                  "lng": -97.147151
+               },
+               "southwest": {
+                  "lat": 33.210752,
+                  "lng": -97.149849
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/fast_food-71.png",
+         "name": "Chick-fil-A",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJgR4e_DeuEmsR6C8HmYyjkWQ",
+         "plus_code": {
+            "compound_code": "VCR6+CJ Denton, Texas",
+            "global_code": "8644VCR6+CJ"
+         },
+         "rating": 4.5,
+         "types": [
+            "fast_food",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Near Denton, TX"
+      }
+   ],
+   "status": "OK"
+}

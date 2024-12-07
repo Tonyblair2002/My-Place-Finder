@@ -1,0 +1,146 @@
+{
+   "html_attributions": [],
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.211360,
+               "lng": -97.147263
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.212709,
+                  "lng": -97.145914
+               },
+               "southwest": {
+                  "lat": 33.209911,
+                  "lng": -97.148612
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "name": "University of North Texas Union Building",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+         "plus_code": {
+            "compound_code": "VCR6+8Q Denton, Texas",
+            "global_code": "8644VCR6+8Q"
+         },
+         "rating": 4.7,
+         "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "1155 Union Circle, Denton, TX 76203"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2119,
+               "lng": -97.1502
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.213249,
+                  "lng": -97.148851
+               },
+               "southwest": {
+                  "lat": 33.210551,
+                  "lng": -97.151549
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "name": "Willis Library",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJZ7LH_DeuEmsRd5oRvRVB2Ds",
+         "plus_code": {
+            "compound_code": "VCR6+VP Denton, Texas",
+            "global_code": "8644VCR6+VP"
+         },
+         "rating": 4.5,
+         "types": [
+            "library",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "1506 W Highland St, Denton, TX 76203"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2109,
+               "lng": -97.1478
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.212249,
+                  "lng": -97.146451
+               },
+               "southwest": {
+                  "lat": 33.209551,
+                  "lng": -97.149149
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "name": "Marquis Hall",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJh6qq_DeuEmsRyZmP7J-kAQU",
+         "plus_code": {
+            "compound_code": "VCR5+RJ Denton, Texas",
+            "global_code": "8644VCR5+RJ"
+         },
+         "rating": 4.6,
+         "types": [
+            "university_building",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "1511 W Mulberry St, Denton, TX 76201"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2121,
+               "lng": -97.1465
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.213450,
+                  "lng": -97.145151
+               },
+               "southwest": {
+                  "lat": 33.210752,
+                  "lng": -97.147849
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "name": "Sage Hall",
+         "opening_hours": {
+            "open_now": true
+         },
+         "place_id": "ChIJgR4e_DeuEmsR6C8HmYyjkWQ",
+         "plus_code": {
+            "compound_code": "VCR6+CJ Denton, Texas",
+            "global_code": "8644VCR6+CJ"
+         },
+         "rating": 4.4,
+         "types": [
+            "university_building",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "1167 Union Cir, Denton, TX 76203"
+      }
+   ],
+   "status": "OK"
+}

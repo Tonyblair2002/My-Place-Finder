@@ -1,0 +1,776 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCJwEAAA4sWlxb5-MRFYUkCb3LmHzgFQws3KTDVDWb4Vy6kMVB3qU75Mq9wxPMJhfPlM2aXKfTO9BcXYwTmhenC761HgzO2LrH0J5xOZWDJcg97c4KAFMqCzwvb0Q0_IDHJKMK2qkD2PK8nZ_lNl7V4MAZIPjsWWdlZV5CticHYs0AM-mB5VRIoNpAqWZ_pZO30upf-qeVE5qtzO0XeWWjPpbLxKl5eiyVZeI2zsPWfRFZWfKdXU3TIRvuFaXVDPFEwcL1kHdriY_5si_njue07b9W1IeR6bcy6ac0ZWOCAiFBmqVfp7RjcqziqenYbJrEAYDgSpiZKcHJ5KnfhFWW-oveuOwV3NV-dt51e42freubopD0EZWzVP69VZZtcYbMrhYfl7hiE12BKR2I8t0tUsXL1bsSEPebcLQHXXFyFL2eedQVH2YaFGohrXgN9vIMPC--BPcCjTs5xkCy",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6466284,
+               "lng" : 2.739789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64797738029149,
+                  "lng" : 2.741137980291502
+               },
+               "southwest" : {
+                  "lat" : 41.64527941970849,
+                  "lng" : 2.738440019708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "da0f2e38114a257483d5340d2b7366af2f354c7a",
+         "name" : "Salut Metal Terapeutica Malgrat",
+         "place_id" : "ChIJN6sVun8-uxIRJ95vZKdmNdw",
+         "plus_code" : {
+            "compound_code" : "JPWQ+MW Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWQ+MW"
+         },
+         "reference" : "ChIJN6sVun8-uxIRJ95vZKdmNdw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "Calle Passada, 46, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6482,
+               "lng" : 2.74127
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6495489802915,
+                  "lng" : 2.742618980291502
+               },
+               "southwest" : {
+                  "lat" : 41.6468510197085,
+                  "lng" : 2.739921019708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bbd605169f0b00860a6122e0f43ecb7d3f461a44",
+         "name" : "Two-Bedroom Apartment in Malgrat de Mar",
+         "place_id" : "ChIJcZzSfH8-uxIRKVsX3_b5C50",
+         "plus_code" : {
+            "compound_code" : "JPXR+7G Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+7G"
+         },
+         "reference" : "ChIJcZzSfH8-uxIRKVsX3_b5C50",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6455609,
+               "lng" : 2.7406521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6469098802915,
+                  "lng" : 2.742001080291502
+               },
+               "southwest" : {
+                  "lat" : 41.6442119197085,
+                  "lng" : 2.739303119708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "315d771b5d6d57fbe50c8c3eaf72808082193887",
+         "name" : "Apartment Malgrat Mar- Malgrat de Mar",
+         "place_id" : "ChIJh2gdVn4-uxIRA717N75LDwk",
+         "plus_code" : {
+            "compound_code" : "JPWR+67 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+67"
+         },
+         "reference" : "ChIJh2gdVn4-uxIRA717N75LDwk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "37 Carrer Cami Nou, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6503721,
+               "lng" : 2.7391041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6517951802915,
+                  "lng" : 2.740249130291502
+               },
+               "southwest" : {
+                  "lat" : 41.6490972197085,
+                  "lng" : 2.737551169708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
+         "name" : "Parc polivalent Francesc Macià",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113222322454380379683/photos\"\u003eGloria Saldaña Pardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH1NIh_ylEzQrEH6cyX2NhSPcO0ZTlM8Ao7QmHYxz5myQY-bVQUO7SL67m3GMYusoELPvvP_3Z3c1QEdZH7lYSdKC6ic_nXb6rRvm51Ame1GJvKW_TT0rL0yiiecr-qkHEhBTNqSGI8W1BmEBAFCiyTDRGhTzFLaERvibivtiE6VQOyZV2k3pag",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4J Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 77, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.64672909999999,
+               "lng" : 2.738545299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64807358029149,
+                  "lng" : 2.739884780291502
+               },
+               "southwest" : {
+                  "lat" : 41.6453756197085,
+                  "lng" : 2.737186819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ebe62f63a0e4118f8989764f63e1076ec5ad0261",
+         "name" : "Apartament",
+         "place_id" : "ChIJtzM02n8-uxIRcE_XJr9qO5k",
+         "plus_code" : {
+            "compound_code" : "JPWQ+MC Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWQ+MC"
+         },
+         "reference" : "ChIJtzM02n8-uxIRcE_XJr9qO5k",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "13, Carrer d'Aragó, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.644958,
+               "lng" : 2.7398995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6463067302915,
+                  "lng" : 2.741248680291501
+               },
+               "southwest" : {
+                  "lat" : 41.64360876970851,
+                  "lng" : 2.738550719708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7bf48546ae4b3c53fe5419fbf97b769227474e4",
+         "name" : "Clínica Hera",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 329,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110775488988259361518/photos\"\u003eClínica Hera S.L.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmI92D7BllGoSFmDyrTL441J0smrOftlt0Jd8DQymbGXuwH_WBxXwGu2c7XWDLYx2SCts2CoGMbbRy03_jEQjrpSchGrkf7ku-zXYcOGrRFBgd07BfWfLpoPNHcVFqjOlEhCkmdwg1oxDbWVycn28nLq4GhSFEKGGBFX6-A3tVr8BjGN6T0n-Vw",
+               "width" : 781
+            }
+         ],
+         "place_id" : "ChIJITZyQ34-uxIRMcjoTaV5fic",
+         "plus_code" : {
+            "compound_code" : "JPVQ+XX Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPVQ+XX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJITZyQ34-uxIRMcjoTaV5fic",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer del Carme, 111, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.646356,
+               "lng" : 2.741298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64773088029149,
+                  "lng" : 2.742710630291502
+               },
+               "southwest" : {
+                  "lat" : 41.6450329197085,
+                  "lng" : 2.740012669708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "be86a1f43a2116845abeaba330bb5b1a1200ccf2",
+         "name" : "BOHEMI RESTAURANT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109737824428436177676/photos\"\u003eAlbert Ferron\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnmA_YWlg6p95Be43bDkfLkMFxXXxa9fv9-0A_Ud8yDhelqF807MqEGTePrR9h40V18EDK5POcY37iJgkVWHyMyvJLfrW9qwpa--qCfZyCFehOd4w-C51833f4YTN5mAtEhC3gS7O_A5FtsGeP1lt8jwNGhTGsDypaAMU7hHMMF92EtmCN5qQZg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZW7AG38-uxIR2pFA0sZvXaE",
+         "plus_code" : {
+            "compound_code" : "JPWR+GG Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+GG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJZW7AG38-uxIR2pFA0sZvXaE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer Desclapers, 12, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6457101,
+               "lng" : 2.7411599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6470198802915,
+                  "lng" : 2.742543830291502
+               },
+               "southwest" : {
+                  "lat" : 41.6443219197085,
+                  "lng" : 2.739845869708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "77fbfca947c918f11a611e2eecb4efc38e62ec43",
+         "name" : "Ajuntament de Malgrat de Mar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106864010252316015757/photos\"\u003eJean Pierre Guyomard\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAt6FFuxk8VN0eIBdjKHix-rxItlklrQcvVBNQK8aYZp1wJG3ME2Qln6w9mlSCJ82t6SkEFC77aNl23yHalC_oqYjFC4j-SmKIBJWZ3EgMb7fNxTFmr6pnBz5nsxmzWaRlEhCCrr6tUfQ4KtOCZyxl9ykFGhQpD4itMT2-HOR7l3N9dE5gdtkY_A",
+               "width" : 1360
+            }
+         ],
+         "place_id" : "ChIJXS1CS3k-uxIR3ru2PSIdBPw",
+         "plus_code" : {
+            "compound_code" : "JPWR+7F Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+7F"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJXS1CS3k-uxIR3ru2PSIdBPw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer del Carme, 30, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.651366,
+               "lng" : 2.739554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6527619802915,
+                  "lng" : 2.740778830291502
+               },
+               "southwest" : {
+                  "lat" : 41.6500640197085,
+                  "lng" : 2.738080869708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d51ee0149a47cf0402f53850d5770d33b6723c03",
+         "name" : "La Torreta Braseria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110018147383414156614/photos\"\u003eLa Torreta Braseria\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-vI1Bvr5PhFT9nt_BVY-_nkcLTxenrSbOz-tJgM9rbLg60UOZS7DYdrQU9IMQLpNjGZhCUuuXiEMtaas_qmsWghmSkvuq7VmRkXCHw4TNDsQwzaQDc0HzWKlbrH2XJIbEhC-KCRTT22uDAUVUwctygPmGhR7g72AN-N1e6LZVMrc4SM1QFY4Rg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJsboD59Q9uxIRdB0l4etRsUs",
+         "plus_code" : {
+            "compound_code" : "MP2Q+GR Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+GR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJsboD59Q9uxIRdB0l4etRsUs",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 79, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6456898,
+               "lng" : 2.741423600000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6470391802915,
+                  "lng" : 2.742772230291502
+               },
+               "southwest" : {
+                  "lat" : 41.6443412197085,
+                  "lng" : 2.740074269708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "72279524dacea5f27cbc44340149030aa7270651",
+         "name" : "Caixer Automàtic Santander",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJo_KddzoXuxIRRKSGqRz0wYQ",
+         "plus_code" : {
+            "compound_code" : "JPWR+7H Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+7H"
+         },
+         "reference" : "ChIJo_KddzoXuxIRRKSGqRz0wYQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer del Carme, 69, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6484463,
+               "lng" : 2.7388732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64974428029149,
+                  "lng" : 2.740226630291501
+               },
+               "southwest" : {
+                  "lat" : 41.64704631970849,
+                  "lng" : 2.737528669708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cd530b1ecf1174902143434ae08e618edf193e16",
+         "name" : "ACCM Associació El Castell i Ciutadans Malgrat de mar BCN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103910531918928793768/photos\"\u003eACCM Associació El Castell i Ciutadans Malgrat de mar BCN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsFEGhMyWH6S2pxtrV-aXRWcAjGdNcmsWkccZL9cvKOX4oGuHR4PntBOu9ffEY_gOPZib-4p_GqJQm1SA7yppCEVpSURDZy-9t2TJxgjFQOZB6P-n7xea1c4_xY6BVc_5EhC6KC0POaSaJh6_g3IbpAM-GhRClO6a6Cuy2zx788Wl6v9eMZIxGw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJnX8UYtU9uxIRKkTY-oKsWM0",
+         "plus_code" : {
+            "compound_code" : "JPXQ+9G Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXQ+9G"
+         },
+         "reference" : "ChIJnX8UYtU9uxIRKkTY-oKsWM0",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Ponent, 27, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.64471200000001,
+               "lng" : 2.739081999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6460251302915,
+                  "lng" : 2.740461880291501
+               },
+               "southwest" : {
+                  "lat" : 41.6433271697085,
+                  "lng" : 2.737763919708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "942ea9804b81d5c04888a657be4e1d82948f7098",
+         "name" : "Classic Pizza",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117930860732594276215/photos\"\u003eJoan Torras\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA71FNC0MdTCQQdbXYxlpf_Kpi5-FkslYeYcRLWKZAyByXH3rGecz1lQvgFcbodKhax_Sy0tm-omUlMsq5Bet78JcT0Cq99Sa4FzQTmUoszpYmFC0uGkk0YY-lpx-1ooenEhCObjNxR6YjqNlbeJEAmdF1GhSOOR53cYkkuMxTBfRIzBSNTgIztA",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJtU7_PX4-uxIRV2-7Cj1729g",
+         "rating" : 4.3,
+         "reference" : "ChIJtU7_PX4-uxIRV2-7Cj1729g",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer Fonlladosa, 1, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.648599,
+               "lng" : 2.7347346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6499479802915,
+                  "lng" : 2.736083580291502
+               },
+               "southwest" : {
+                  "lat" : 41.6472500197085,
+                  "lng" : 2.733385619708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/police-71.png",
+         "id" : "75b13477fc7bf0853e33cfbea8d6a4ca4912656f",
+         "name" : "Policia Local de Malgrat de Mar",
+         "photos" : [
+            {
+               "height" : 699,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109826386425792315136/photos\"\u003eJuan José\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAROZfTy7DEaHr_z_PBOtS9YPj6u2TlQxW5gpLY3Uh-FyywvWZM43pCfZPdOgE6blRjz5dO1GhxnrDrY5VhBoV25qMdO50Bomj2Docad3KmxfCAecIJB7G8lyrBaLzskAgEhA_oMOdaeyyprPMC4GMYQSGGhTzEJVjNlM6T0mGctuF_UMZYqdDow",
+               "width" : 1379
+            }
+         ],
+         "place_id" : "ChIJs-7RZ4A-uxIRc2JyIykiPcE",
+         "plus_code" : {
+            "compound_code" : "JPXM+CV Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXM+CV"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJs-7RZ4A-uxIRc2JyIykiPcE",
+         "scope" : "GOOGLE",
+         "types" : [ "police", "point_of_interest", "establishment" ],
+         "vicinity" : "Calle Dr. Alexander Fleming, 31, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6481675,
+               "lng" : 2.7412954
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64950303029149,
+                  "lng" : 2.742657330291502
+               },
+               "southwest" : {
+                  "lat" : 41.64680506970849,
+                  "lng" : 2.739959369708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e13111f5652823c74c29bb9e5b3bddf5336f52f5",
+         "name" : "Apartment Decomar",
+         "place_id" : "ChIJXdY1Y38-uxIREISJoOQcgkE",
+         "plus_code" : {
+            "compound_code" : "JPXR+7G Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+7G"
+         },
+         "reference" : "ChIJXdY1Y38-uxIREISJoOQcgkE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer Àngel Guimerà, 4, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6459625,
+               "lng" : 2.7400916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6473127802915,
+                  "lng" : 2.741439630291502
+               },
+               "southwest" : {
+                  "lat" : 41.6446148197085,
+                  "lng" : 2.738741669708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "fe27066eace3bddc5d24f9489bc93595811164f1",
+         "name" : "Centre Privat d'Ensenyament Sant Pere Chanel",
+         "photos" : [
+            {
+               "height" : 448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114419673634563695604/photos\"\u003eSergi Guillen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyz2FaHalvjkjomm0vzMSVyY9ur65UQQhMmw7Z8YhdycllpK3Y6CiH0WpB0GaTlJZt8Qqym_wwrksSUqAZ4Q1Vq3BTiyF_MhDdA13EQV3G_ukQuOeIkM2xHBgrMEXE3zFEhBq_ASS3j01xqnC0NoMvliWGhQOhlNIIpNMXN4wHdV64xM3l4nfcQ",
+               "width" : 587
+            }
+         ],
+         "place_id" : "ChIJv-K_VH4-uxIR7pIaxskVbFM",
+         "plus_code" : {
+            "compound_code" : "JPWR+92 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+92"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJv-K_VH4-uxIR7pIaxskVbFM",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Passatge Alsina, 13, 15, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6464657,
+               "lng" : 2.7412149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6478410802915,
+                  "lng" : 2.742628730291501
+               },
+               "southwest" : {
+                  "lat" : 41.6451431197085,
+                  "lng" : 2.739930769708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "98983199090118a2ce56f5c487741d9b1f1a412f",
+         "name" : "Centre mèdic i Clínica dental Catar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1067,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106728374331791665632/photos\"\u003eCentre mèdic i Clínica dental Catar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9cmrbm9G6-882IkY3PrY0P5-e_WN8f_1GP5a1IquOnCBHoAgnCaRUrJAnWAP63dwyAz3sC-O90VOoUXKJz54jq8QetoDTO0WDP_sTNST6nL4ztgP2xIEfSHbNG0otL99EhBmgnvLNiP99n-HjNYWFirkGhShgnI8CCemX14rrDN-0gxPgATK7Q",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJaeuXGn8-uxIRa1cgeXGIdEc",
+         "plus_code" : {
+            "compound_code" : "JPWR+HF Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+HF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJaeuXGn8-uxIRa1cgeXGIdEc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "dentist",
+            "hospital",
+            "doctor",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Carrer Desclapers, 6, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.648147,
+               "lng" : 2.7428856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6495178802915,
+                  "lng" : 2.744279680291502
+               },
+               "southwest" : {
+                  "lat" : 41.6468199197085,
+                  "lng" : 2.741581719708499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f905a6021a7f9a2a873f503c17bed4beb4949dcb",
+         "name" : "Centre Mèdic Santor",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ70ag-NU9uxIRKcIoVa9-Ss4",
+         "plus_code" : {
+            "compound_code" : "JPXV+75 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXV+75"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ70ag-NU9uxIRKcIoVa9-Ss4",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer Joaquim Ruyra, 4, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6479931,
+               "lng" : 2.7367669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6493005802915,
+                  "lng" : 2.738229380291501
+               },
+               "southwest" : {
+                  "lat" : 41.6466026197085,
+                  "lng" : 2.735531419708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1016359495c40abc0bacb26267b2059547729c5",
+         "name" : "Amvet Clínica Veterinària Alt Maresme",
+         "photos" : [
+            {
+               "height" : 408,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112721685146754171527/photos\"\u003eAmvet Clínica Veterinària Alt Maresme\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5Bov68yPSwG6pDrEdcHLw_53W8ZgMVW9wq5dUPHA5HX8cdbHjo28-niNrIXPqJj7wy9fRjZvXXJi7djFsgJiNSjtC2Ft735GAs6YCctEvyYIE7iFmhJrygwe1HVibv1GEhAh8bQ2L7z9SElm_T9k4tEeGhRHhBUBy4JrQSvpY3dZ7dDlyNfExw",
+               "width" : 725
+            }
+         ],
+         "place_id" : "ChIJueDPIoA-uxIRfVUYGWhhNsw",
+         "rating" : 4.8,
+         "reference" : "ChIJueDPIoA-uxIRfVUYGWhhNsw",
+         "scope" : "GOOGLE",
+         "types" : [ "veterinary_care", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 94, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6456429,
+               "lng" : 2.7413581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64699188029149,
+                  "lng" : 2.742707080291502
+               },
+               "southwest" : {
+                  "lat" : 41.6442939197085,
+                  "lng" : 2.740009119708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "8dfc88e74bd43d39482b0826cb24572c63459b99",
+         "name" : "Oficina Banco Santander",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107456560867542868600/photos\"\u003eMiguel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6fbm0ZFWvm4HgzhxDnUFWsjI1LO700jgQ6tmHDYIM_OFnln9fM2ZD3_Nm6TOA1ngiqvidxt0GOF2FRcTjYmgtUeOAV9XV21WmVlV78LcO2zrdQPYGF-eO5KtkiPMlezNEhCAx0h6cRWpAcGXuj4dhGSOGhRwPRLi_CeSj4FOblQ2aTjzKrmhSw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJyXb94n4-uxIRHd4btkokN3g",
+         "plus_code" : {
+            "compound_code" : "JPWR+7G Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWR+7G"
+         },
+         "rating" : 1,
+         "reference" : "ChIJyXb94n4-uxIRHd4btkokN3g",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Carmen, 69, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.64513910000001,
+               "lng" : 2.738884999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64649953029149,
+                  "lng" : 2.740260780291502
+               },
+               "southwest" : {
+                  "lat" : 41.64380156970849,
+                  "lng" : 2.737562819708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6b3cdb09b5a95ed9fa3e7513920e434b7a317715",
+         "name" : "Casa Brisa",
+         "place_id" : "ChIJ9VEXO34-uxIRm103J4BGpys",
+         "plus_code" : {
+            "compound_code" : "JPWQ+3H Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPWQ+3H"
+         },
+         "reference" : "ChIJ9VEXO34-uxIRm103J4BGpys",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Nàpols, 6, Malgrat de Mar"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,161 @@
+{
+   "html_attributions": [],
+   "results": [
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2178,
+               "lng": -97.1436
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.219149,
+                  "lng": -97.142251
+               },
+               "southwest": {
+                  "lat": 33.216451,
+                  "lng": -97.144949
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "name": "Shell",
+         "place_id": "ChIJN1t_tDeuEmsRUsoyG83frY4",
+         "plus_code": {
+            "compound_code": "VCR9+XP Denton, Texas",
+            "global_code": "8644VCR9+XP"
+         },
+         "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2135,
+               "lng": -97.1354
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.214849,
+                  "lng": -97.134051
+               },
+               "southwest": {
+                  "lat": 33.212151,
+                  "lng": -97.136749
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "name": "Chevron",
+         "place_id": "ChIJZ7LH_DeuEmsRd5oRvRVB2Ds",
+         "plus_code": {
+            "compound_code": "VCQ8+4M Denton, Texas",
+            "global_code": "8644VCQ8+4M"
+         },
+         "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2167,
+               "lng": -97.1579
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.218049,
+                  "lng": -97.156551
+               },
+               "southwest": {
+                  "lat": 33.215351,
+                  "lng": -97.159249
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "name": "Exxon",
+         "place_id": "ChIJh6qq_DeuEmsRyZmP7J-kAQU",
+         "plus_code": {
+            "compound_code": "VCR7+XJ Denton, Texas",
+            "global_code": "8644VCR7+XJ"
+         },
+         "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2160,
+               "lng": -97.1330
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.217349,
+                  "lng": -97.131651
+               },
+               "southwest": {
+                  "lat": 33.214651,
+                  "lng": -97.134349
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "name": "RaceTrac",
+         "place_id": "ChIJgR4e_DeuEmsR6C8HmYyjkWQ",
+         "plus_code": {
+            "compound_code": "VCRC+4C Denton, Texas",
+            "global_code": "8644VCRC+4C"
+         },
+         "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Denton, TX"
+      },
+      {
+         "geometry": {
+            "location": {
+               "lat": 33.2144,
+               "lng": -97.1408
+            },
+            "viewport": {
+               "northeast": {
+                  "lat": 33.215749,
+                  "lng": -97.139451
+               },
+               "southwest": {
+                  "lat": 33.213051,
+                  "lng": -97.142149
+               }
+            }
+         },
+         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/gas_station-71.png",
+         "name": "Valero",
+         "place_id": "ChIJIb20_DeuEmsRlL26rvJ_DsQ",
+         "plus_code": {
+            "compound_code": "VCR8+8F Denton, Texas",
+            "global_code": "8644VCR8+8F"
+         },
+         "types": [
+            "gas_station",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity": "Denton, TX"
+      }
+   ],
+   "status": "OK"
+}

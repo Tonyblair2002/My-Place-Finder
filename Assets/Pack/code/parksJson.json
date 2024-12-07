@@ -1,0 +1,182 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6503721,
+               "lng" : 2.7391041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6517951802915,
+                  "lng" : 2.740249130291502
+               },
+               "southwest" : {
+                  "lat" : 41.6490972197085,
+                  "lng" : 2.737551169708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "e4d2b4caccffaf5bdc06816cf5f682d3c05ac9b4",
+         "name" : "Parc polivalent Francesc Macià",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113222322454380379683/photos\"\u003eGloria Saldaña Pardo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARjrmSuqO9y9hDWz008rINhcXqjqhZvM4WUJanUggV4xtKcJCWOJcH0H5IAEt7e2PUc_fd1sBWh9DI_BFUWElbbnrpiVregkpIm5xQD1ZcfkRAFOTLOKdKOXxrtjl4mM7EhDIyjbYo_dLUmXdndyhRwYPGhTJbSL-Yg_1MO-CyqtsCIfjYgQ9Pw",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4J Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4J"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJh77eO9U9uxIRaUAeu1LgFMg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 77, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6480954,
+               "lng" : 2.7402114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.64944438029149,
+                  "lng" : 2.741560380291502
+               },
+               "southwest" : {
+                  "lat" : 41.6467464197085,
+                  "lng" : 2.738862419708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "f046330d5ec31ec2cae9b6d477117db97576e377",
+         "name" : "Парк Кастель",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106154617717918707445/photos\"\u003eJarek Sipko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqzX4y6KS8znCKDJN9-ar5xS37_TPaHR5yrRoD0zS1CraMI5pxUVwPLDNHqf7SHC50Qtjdy0Uks2xNWH3AuvZdz4iyF4qrapS-XnDezIDHfCGM9QdRTvfsYN7UWReAcjEEhAY6MPVBFRZfo8h66dtvNngGhQ0SmrASADaxibHFQyuKZcefKLgIw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
+         "plus_code" : {
+            "compound_code" : "JPXR+63 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+63"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJI3IphH8-uxIRVjGWvfBDyHY",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.6485716,
+               "lng" : 2.7406972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6499522302915,
+                  "lng" : 2.741945630291502
+               },
+               "southwest" : {
+                  "lat" : 41.6472542697085,
+                  "lng" : 2.739247669708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "1d9d44498dfbe21c0648ac84bb744f8c0b504fe4",
+         "name" : "Parc del Castell",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115011590733818636112/photos\"\u003eЕвгений Сотник\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz4xChOGXbulth5P_uQGPKU7ZYxZmCFSJ8Pqc-TDMMEm_Wx9AUXj8BcUW6C3DaSxquYEKz3Fp6Z3WMFPc7iwxqggRcsxSIsci6b9RQj_arEmhcDibWPFIIdFcj-L13rs_EhBZ_Gzj4ztN695o6phanwrYGhSeJC_JHhxtEX9uHK53WasDDi9Vbw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
+         "plus_code" : {
+            "compound_code" : "JPXR+C7 Malgrat de Mar, Spain",
+            "global_code" : "8FH4JPXR+C7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJyWqB5H8-uxIRnyccnEB1tWk",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Carrer de Ponent, 58, Malgrat de Mar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 41.65036889999999,
+               "lng" : 2.7387012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6517330802915,
+                  "lng" : 2.740008330291502
+               },
+               "southwest" : {
+                  "lat" : 41.6490351197085,
+                  "lng" : 2.737310369708498
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "505e61fd02e5c93f011df301919f0563629e9b4a",
+         "name" : "Parque De MALGRAT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106912488599227221365/photos\"\u003eSantiago Aldeguer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN37oZqYhNArkFBpEwHEhjGiMjZltVarBrBIeUR3PjTJRNNjgZtXoffCCh6csXqm22ptEcEHQLee6yeZc7zD4ls7PjlC9wgqrIAxfXOz2uYC2CSaq4Q8ScuvVWewgBDtaEhAZIojoVTIBmEH_TeKiIdteGhRqKJUX_bb8-DtRiWj6tjS3mond8Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
+         "plus_code" : {
+            "compound_code" : "MP2Q+4F Malgrat de Mar, Spain",
+            "global_code" : "8FH4MP2Q+4F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFx3DL9U9uxIR40Yn5myL_PI",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Avinguda de la Costa Brava, 116, Malgrat de Mar"
+      }
+   ],
+   "status" : "OK"
+}
